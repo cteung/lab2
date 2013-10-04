@@ -21,8 +21,20 @@ body {
 	font: 36px Boogaloo;
 	color: #116189;
 }
+
+.motto {
+	font-style: italic;
+	font-size: 120%; 
+}
+
 .navbar {
 	background-color: #D74710;
+}
+
+.navbar a {
+	color: white;
+	font-weight: bold;
+	text-decoration: none;
 }
 
 .navbar a:hover {
